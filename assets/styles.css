@@ -1,5 +1,6 @@
 .main-stuff {
-    background-image: url(https://media.istockphoto.com/vectors/music-note-icon-vector-illustration-vector-id1175435360?k=20&m=1175435360&s=612x612&w=0&h=1yoTgUwobvdFlNxUQtB7_NnWOUD83XOMZHvxUzkOJJs=);
-    /* background-repeat: no-repeat; */
-    background-position: center;
+    background-image: url(https://images.pexels.com/photos/164938/pexels-photo-164938.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
 }
